@@ -1,3 +1,21 @@
 @import "../../node_modules/bootstrap/scss/bootstrap.scss";
 @import "customStyles.scss";
 
+.card_style {
+  max-width: 18rem;
+  max-height: 40rem;
+  border: #006fff 0.2em solid;
+  border-radius:13px 13px 13px 13px;
+}
+
+.img{
+    max-width: 18rem;
+    height: 24rem;
+    border-radius:10px 10px 0 0;
+}
+
+.card_color {
+  background: #212529;
+  border: none;
+  border-radius:0 0 10px 10px;
+}
